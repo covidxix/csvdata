@@ -1,19 +1,19 @@
-Region,Estimated % B.1.1.7,Change B.1.1.7,Estimated % VoC (Non B.1.1.7)
-Blekinge län,100%,8%,3%
-Dalarnas län,88%,0%,8%
-Gävleborgs län,95%,1%,2%
-Hallands län,88%,1%,0%
-Jämtlands län,94%,11%,1%
-Jönköpings län,97%,3%,1%
-Kalmar län,95%,8%,0%
-Kronobergs län,92%,4%,0%
-Norrbottens län,,,0%
-Skåne län,83%,0%,1%
-Stockholms län,92%,4%,4%
-Södermanlands län,88%,4%,3%
-Uppsala län,90%,6%,9%
-Värmlands län,75%,8%,14%
-Västernorrlands län,96%,0%,0%
-Västmanlands län,91%,9%,8%
-Västra Götalands län,83%,1%,7%
-Örebro län,96%,5%,2%
+Region,Estimated % B.1.1.7,Change B.1.1.7,Estimated % VoC (Non B.1.1.7),Screening Week,Timestamp
+Blekinge län,100%,8%,3%,13,2021-04-16
+Dalarnas län,88%,0%,8%,13,2021-04-16
+Gävleborgs län,95%,1%,2%,13,2021-04-16
+Hallands län,88%,1%,0%,13,2021-04-16
+Jämtlands län,94%,11%,1%,13,2021-04-16
+Jönköpings län,97%,3%,1%,13,2021-04-16
+Kalmar län,95%,8%,0%,13,2021-04-16
+Kronobergs län,92%,4%,0%,13,2021-04-16
+Norrbottens län,,,0%,13,2021-04-16
+Skåne län,83%,0%,1%,13,2021-04-16
+Stockholms län,92%,4%,4%,13,2021-04-16
+Södermanlands län,88%,4%,3%,13,2021-04-16
+Uppsala län,90%,6%,9%,13,2021-04-16
+Värmlands län,75%,8%,14%,13,2021-04-16
+Västernorrlands län,96%,0%,0%,13,2021-04-16
+Västmanlands län,91%,9%,8%,13,2021-04-16
+Västra Götalands län,83%,1%,7%,13,2021-04-16
+Örebro län,96%,5%,2%,13,2021-04-16
