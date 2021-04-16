@@ -1,19 +1,19 @@
-Region,Estimated % B.1.1.7
-Blekinge län,92%
-Dalarnas län,88%
-Gävleborgs län,94%
-Hallands län,87%
-Jämtlands län,83%
-Jönköpings län,94%
-Kalmar län,87%
-Kronobergs län,88%
-Norrbottens län,82%
-Skåne län,83%
-Stockholms län,88%
-Södermanlands län,84%
-Uppsala län,84%
-Värmlands län,67%
-Västernorrlands län,96%
-Västmanlands län,82%
-Västra Götalands län,82%
-Örebro län,91%
+Region,Estimated % B.1.1.7,Change B.1.1.7,Estimated % VoC (Non B.1.1.7)
+Blekinge län,100%,8%,3%
+Dalarnas län,88%,0%,8%
+Gävleborgs län,95%,1%,2%
+Hallands län,88%,1%,0%
+Jämtlands län,94%,11%,1%
+Jönköpings län,97%,3%,1%
+Kalmar län,95%,8%,0%
+Kronobergs län,92%,4%,0%
+Norrbottens län,,,0%
+Skåne län,83%,0%,1%
+Stockholms län,92%,4%,4%
+Södermanlands län,88%,4%,3%
+Uppsala län,90%,6%,9%
+Värmlands län,75%,8%,14%
+Västernorrlands län,96%,0%,0%
+Västmanlands län,91%,9%,8%
+Västra Götalands län,83%,1%,7%
+Örebro län,96%,5%,2%
