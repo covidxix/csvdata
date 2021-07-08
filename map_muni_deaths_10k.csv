@@ -18,8 +18,8 @@ Bollebygd,9.5
 Bollnäs,11.6
 Borgholm,5.5
 Borlänge,20.8
-Borås,17.4
-Botkyrka,15.6
+Borås,17.5
+Botkyrka,15.7
 Boxholm,5.5
 Bromölla,8.6
 Bräcke,30.6
@@ -40,7 +40,7 @@ Essunga,12.3
 Fagersta,11.3
 Falkenberg,9.6
 Falköping,14.7
-Falun,10.2
+Falun,10.4
 Filipstad,13.3
 Finspång,13.3
 Flen,17.0
@@ -50,7 +50,7 @@ Gagnef,13.5
 Gislaved,14.2
 Gnesta,17.6
 Gnosjö,14.6
-Gotland,6.8
+Gotland,7.0
 Grums,4.4
 Grästorp,8.8
 Gullspång,5.8
@@ -72,14 +72,14 @@ Helsingborg,17.7
 Herrljunga,13.8
 Hjo,10.8
 Hofors,26.1
-Huddinge,15.4
+Huddinge,15.5
 Hudiksvall,18.3
 Hultsfred,24.0
 Hylte,2.8
 Håbo,11.8
 Hällefors,17.4
 Härjedalen,3.0
-Härnösand,12.3
+Härnösand,12.7
 Härryda,7.1
 Hässleholm,12.5
 Höganäs,7.7
@@ -99,7 +99,7 @@ Karlstad,5.2
 Katrineholm,17.0
 Kil,8.3
 Kinda,13.0
-Kiruna,12.4
+Kiruna,12.8
 Klippan,9.0
 Knivsta,4.2
 Kramfors,25.4
@@ -111,7 +111,7 @@ Kungsbacka,8.1
 Kungsör,4.6
 Kungälv,8.7
 Kävlinge,10.6
-Köping,10.7
+Köping,11.5
 Laholm,1.2
 Landskrona,12.5
 Laxå,21.2
@@ -129,11 +129,11 @@ Ljusdal,20.1
 Ljusnarsberg,6.4
 Lomma,8.0
 Ludvika,15.8
-Luleå,8.4
-Lund,8.2
+Luleå,8.5
+Lund,8.3
 Lycksele,9.7
 Lysekil,12.5
-Malmö,12.5
+Malmö,12.6
 Malung,4.9
 Malå,9.9
 Mariestad,6.9
@@ -159,7 +159,7 @@ Norrtälje,17.3
 Norsjö,0.0
 Nybro,6.4
 Nykvarn,13.4
-Nyköping,16.8
+Nyköping,17.0
 Nynäshamn,15.6
 Nässjö,22.8
 Ockelbo,13.6
@@ -188,7 +188,7 @@ Skara,13.9
 Skellefteå,11.3
 Skinnskatteberg,6.9
 Skurup,11.9
-Skövde,16.2
+Skövde,16.4
 Smedjebacken,10.1
 Sollefteå,28.6
 Sollentuna,21.6
@@ -203,8 +203,8 @@ Storuman,20.6
 Strängnäs,7.3
 Strömstad,5.3
 Strömsund,10.4
-Sundbyberg,18.4
-Sundsvall,13.6
+Sundbyberg,18.6
+Sundsvall,13.8
 Sunne,8.3
 Surahammar,9.9
 Svalöv,9.1
@@ -212,7 +212,7 @@ Svedala,6.2
 Svenljunga,8.4
 Säffle,1.9
 Säter,15.3
-Sävsjö,22.2
+Sävsjö,23.0
 Söderhamn,35.2
 Söderköping,8.9
 Södertälje,23.7
@@ -220,7 +220,7 @@ Sölvesborg,9.8
 Tanum,10.8
 Tibro,21.3
 Tidaholm,14.0
-Tierp,10.8
+Tierp,11.7
 Timrå,24.5
 Tingsryd,12.9
 Tjörn,7.4
@@ -263,11 +263,11 @@ Värmdö,16.5
 Värnamo,13.6
 Västervik,12.6
 Västerås,14.1
-Växjö,14.0
+Växjö,14.1
 Ydre,8.0
 Ystad,4.2
 Åmål,17.7
-Ånge,0.0
+Ånge,29.1
 Åre,7.5
 Årjäng,8.0
 Åsele,10.7
@@ -283,7 +283,7 @@ Ystad,4.2
 Örebro,10.6
 Örkelljunga,13.4
 Örnsköldsvik,12.7
-Östersund,9.2
+Östersund,9.4
 Österåker,13.1
 Östhammar,15.3
 Östra Göinge,12.0
