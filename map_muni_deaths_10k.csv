@@ -19,7 +19,7 @@ Bollnäs,11.6
 Borgholm,5.5
 Borlänge,20.8
 Borås,17.5
-Botkyrka,15.7
+Botkyrka,15.8
 Boxholm,5.5
 Bromölla,9.4
 Bräcke,30.6
@@ -39,7 +39,7 @@ Eslöv,8.2
 Essunga,12.3
 Fagersta,11.3
 Falkenberg,9.6
-Falköping,14.7
+Falköping,15.0
 Falun,10.6
 Filipstad,13.3
 Finspång,13.3
@@ -56,7 +56,7 @@ Grästorp,8.8
 Gullspång,5.8
 Gällivare,21.2
 Gävle,17.6
-Göteborg,14.5
+Göteborg,14.6
 Götene,3.8
 Habo,9.5
 Hagfors,9.6
@@ -76,7 +76,7 @@ Huddinge,15.5
 Hudiksvall,18.3
 Hultsfred,24.0
 Hylte,2.8
-Håbo,11.8
+Håbo,12.3
 Hällefors,17.4
 Härjedalen,3.0
 Härnösand,12.7
@@ -95,15 +95,15 @@ Karlsborg,4.3
 Karlshamn,6.8
 Karlskoga,8.9
 Karlskrona,6.9
-Karlstad,5.2
-Katrineholm,17.0
+Karlstad,5.3
+Katrineholm,17.2
 Kil,8.3
 Kinda,13.0
 Kiruna,12.8
 Klippan,9.0
 Knivsta,4.2
 Kramfors,25.4
-Kristianstad,12.5
+Kristianstad,12.6
 Kristinehamn,6.6
 Krokom,2.0
 Kumla,8.7
@@ -140,7 +140,7 @@ Mariestad,6.9
 Mark,14.6
 Markaryd,11.6
 Mellerud,12.9
-Mjölby,12.5
+Mjölby,12.9
 Mora,4.9
 Motala,12.4
 Mullsjö,4.1
@@ -181,7 +181,7 @@ Rättvik,2.7
 Sala,13.6
 Salem,17.2
 Sandviken,14.2
-Sigtuna,22.3
+Sigtuna,22.5
 Simrishamn,12.0
 Sjöbo,4.1
 Skara,13.9
@@ -197,7 +197,7 @@ Sorsele,0.0
 Sotenäs,9.9
 Staffanstorp,8.1
 Stenungsund,3.3
-Stockholm,17.9
+Stockholm,18.0
 Storfors,7.5
 Storuman,20.6
 Strängnäs,7.3
@@ -219,8 +219,8 @@ Södertälje,23.7
 Sölvesborg,9.8
 Tanum,10.8
 Tibro,21.3
-Tidaholm,14.0
-Tierp,11.7
+Tidaholm,14.8
+Tierp,12.2
 Timrå,24.5
 Tingsryd,12.9
 Tjörn,7.4
@@ -240,7 +240,7 @@ Ulricehamn,12.6
 Umeå,3.6
 Upplands Väsby,23.9
 Upplands-Bro,15.9
-Uppsala,11.9
+Uppsala,12.0
 Uppvidinge,11.6
 Vadstena,12.1
 Vaggeryd,11.7
@@ -277,7 +277,7 @@ Ystad,4.2
 Älvdalen,4.3
 Älvkarleby,38.9
 Älvsbyn,3.7
-Ängelholm,12.6
+Ängelholm,12.8
 Öckerö,8.5
 Ödeshög,24.4
 Örebro,10.6
