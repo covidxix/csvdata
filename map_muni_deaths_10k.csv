@@ -6,20 +6,20 @@ Aneby,4.4
 Arboga,10.7
 Arjeplog,22.1
 Arvidsjaur,4.9
-Arvika,9.3
+Arvika,9.6
 Askersund,2.6
 Avesta,10.8
 Bengtsfors,12.5
 Berg,11.2
 Bjurholm,0.0
 Bjuv,16.6
-Boden,14.6
+Boden,15.0
 Bollebygd,9.5
 Bollnäs,11.6
 Borgholm,5.5
 Borlänge,20.8
-Borås,17.5
-Botkyrka,16.0
+Borås,17.6
+Botkyrka,16.1
 Boxholm,5.5
 Bromölla,9.4
 Bräcke,30.6
@@ -34,7 +34,7 @@ Ekerö,12.1
 Eksjö,19.7
 Emmaboda,3.2
 Enköping,15.8
-Eskilstuna,15.3
+Eskilstuna,15.4
 Eslöv,8.2
 Essunga,12.3
 Fagersta,11.3
@@ -50,12 +50,12 @@ Gagnef,13.5
 Gislaved,14.2
 Gnesta,17.6
 Gnosjö,14.6
-Gotland,7.0
+Gotland,7.2
 Grums,4.4
 Grästorp,8.8
 Gullspång,5.8
 Gällivare,21.2
-Gävle,17.8
+Gävle,17.9
 Göteborg,14.7
 Götene,3.8
 Habo,10.3
@@ -94,7 +94,7 @@ Kalmar,5.8
 Karlsborg,4.3
 Karlshamn,7.1
 Karlskoga,8.9
-Karlskrona,6.9
+Karlskrona,7.1
 Karlstad,5.3
 Katrineholm,17.2
 Kil,8.3
@@ -154,8 +154,8 @@ Nora,12.1
 Norberg,5.2
 Nordanstig,31.6
 Nordmaling,4.2
-Norrköping,14.4
-Norrtälje,17.5
+Norrköping,14.5
+Norrtälje,17.6
 Norsjö,0.0
 Nybro,6.4
 Nykvarn,13.4
@@ -169,7 +169,7 @@ Orust,9.2
 Osby,10.6
 Oskarshamn,8.5
 Ovanåker,18.0
-Oxelösund,24.2
+Oxelösund,25.0
 Pajala,13.4
 Partille,11.1
 Perstorp,16.0
@@ -205,7 +205,7 @@ Strömstad,5.3
 Strömsund,10.4
 Sundbyberg,18.6
 Sundsvall,13.8
-Sunne,8.3
+Sunne,9.0
 Surahammar,9.9
 Svalöv,9.1
 Svedala,6.2
@@ -233,10 +233,10 @@ Trelleborg,14.4
 Trollhättan,16.2
 Trosa,9.1
 Tyresö,17.1
-Täby,14.6
+Täby,14.7
 Töreboda,14.0
 Uddevalla,15.1
-Ulricehamn,12.6
+Ulricehamn,13.0
 Umeå,3.6
 Upplands Väsby,23.9
 Upplands-Bro,15.9
@@ -244,7 +244,7 @@ Uppsala,12.0
 Uppvidinge,11.6
 Vadstena,12.1
 Vaggeryd,11.7
-Valdemarsvik,19.4
+Valdemarsvik,20.7
 Vallentuna,7.6
 Vansbro,22.0
 Vara,11.2
@@ -283,7 +283,7 @@ Ystad,4.2
 Örebro,10.7
 Örkelljunga,13.4
 Örnsköldsvik,13.1
-Östersund,9.7
+Östersund,9.8
 Österåker,13.1
 Östhammar,15.3
 Östra Göinge,12.0
