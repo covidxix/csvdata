@@ -6,7 +6,7 @@ Aneby,4.4
 Arboga,10.7
 Arjeplog,22.1
 Arvidsjaur,4.9
-Arvika,9.6
+Arvika,10.0
 Askersund,2.6
 Avesta,10.8
 Bengtsfors,12.5
@@ -62,12 +62,12 @@ Habo,10.3
 Hagfors,9.6
 Hallsberg,10.6
 Hallstahammar,6.7
-Halmstad,9.7
+Halmstad,9.8
 Hammarö,2.4
 Haninge,17.5
 Haparanda,13.5
 Heby,10.7
-Hedemora,10.4
+Hedemora,11.0
 Helsingborg,17.8
 Herrljunga,13.8
 Hjo,10.8
@@ -75,7 +75,7 @@ Hofors,26.1
 Huddinge,15.5
 Hudiksvall,18.3
 Hultsfred,24.0
-Hylte,2.8
+Hylte,3.7
 Håbo,12.3
 Hällefors,17.4
 Härjedalen,3.0
@@ -111,9 +111,9 @@ Kungsbacka,8.1
 Kungsör,4.6
 Kungälv,8.7
 Kävlinge,10.6
-Köping,11.5
-Laholm,1.2
-Landskrona,12.5
+Köping,11.9
+Laholm,8.5
+Landskrona,12.7
 Laxå,21.2
 Lekeberg,0.0
 Leksand,13.3
@@ -123,7 +123,7 @@ Lidingö,20.6
 Lidköping,11.4
 Lilla Edet,13.3
 Lindesberg,8.5
-Linköping,14.0
+Linköping,14.1
 Ljungby,10.9
 Ljusdal,20.7
 Ljusnarsberg,6.4
@@ -140,7 +140,7 @@ Mariestad,6.9
 Mark,14.6
 Markaryd,11.6
 Mellerud,12.9
-Mjölby,12.9
+Mjölby,13.3
 Mora,5.4
 Motala,12.4
 Mullsjö,4.1
@@ -187,12 +187,12 @@ Sjöbo,4.1
 Skara,13.9
 Skellefteå,11.3
 Skinnskatteberg,6.9
-Skurup,11.9
+Skurup,12.5
 Skövde,16.5
 Smedjebacken,10.1
 Sollefteå,29.1
 Sollentuna,21.8
-Solna,16.2
+Solna,16.3
 Sorsele,0.0
 Sotenäs,9.9
 Staffanstorp,8.1
@@ -206,7 +206,7 @@ Strömsund,10.4
 Sundbyberg,18.6
 Sundsvall,13.8
 Sunne,9.0
-Surahammar,9.9
+Surahammar,10.9
 Svalöv,9.1
 Svedala,6.2
 Svenljunga,8.4
@@ -214,7 +214,7 @@ Säffle,1.9
 Säter,15.3
 Sävsjö,23.0
 Söderhamn,35.2
-Söderköping,8.9
+Söderköping,9.6
 Södertälje,23.7
 Sölvesborg,9.8
 Tanum,10.8
@@ -233,9 +233,9 @@ Trelleborg,14.4
 Trollhättan,16.2
 Trosa,9.1
 Tyresö,17.1
-Täby,14.7
+Täby,14.9
 Töreboda,14.0
-Uddevalla,15.1
+Uddevalla,15.3
 Ulricehamn,13.0
 Umeå,3.6
 Upplands Väsby,23.9
@@ -245,7 +245,7 @@ Uppvidinge,11.6
 Vadstena,12.1
 Vaggeryd,11.7
 Valdemarsvik,20.7
-Vallentuna,7.6
+Vallentuna,7.9
 Vansbro,22.0
 Vara,11.2
 Varberg,10.6
@@ -259,10 +259,10 @@ Vingåker,19.7
 Vårgårda,10.1
 Vänersborg,18.9
 Vännäs,3.3
-Värmdö,16.5
+Värmdö,16.7
 Värnamo,13.6
 Västervik,12.6
-Västerås,14.1
+Västerås,14.2
 Växjö,14.1
 Ydre,8.0
 Ystad,4.2
