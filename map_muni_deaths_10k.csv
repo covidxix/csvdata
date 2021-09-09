@@ -2,7 +2,7 @@ Kommun,Deaths per 10k Population
 Ale,8.2
 Alingsås,17.5
 Alvesta,20.3
-Aneby,4.4
+Aneby,14.7
 Arboga,10.7
 Arjeplog,22.1
 Arvidsjaur,4.9
@@ -18,7 +18,7 @@ Bollebygd,9.5
 Bollnäs,11.6
 Borgholm,5.5
 Borlänge,20.8
-Borås,17.6
+Borås,17.7
 Botkyrka,16.1
 Boxholm,5.5
 Bromölla,9.4
@@ -55,11 +55,11 @@ Grums,4.4
 Grästorp,8.8
 Gullspång,5.8
 Gällivare,21.2
-Gävle,17.9
+Gävle,18.0
 Göteborg,14.7
 Götene,3.8
 Habo,10.3
-Hagfors,9.6
+Hagfors,10.4
 Hallsberg,10.6
 Hallstahammar,6.7
 Halmstad,9.8
@@ -71,17 +71,17 @@ Hedemora,11.0
 Helsingborg,17.8
 Herrljunga,13.8
 Hjo,10.8
-Hofors,26.1
+Hofors,27.2
 Huddinge,15.5
 Hudiksvall,18.3
 Hultsfred,24.0
 Hylte,3.7
 Håbo,12.3
 Hällefors,17.4
-Härjedalen,3.0
+Härjedalen,7.0
 Härnösand,12.7
 Härryda,7.1
-Hässleholm,12.5
+Hässleholm,12.7
 Höganäs,7.7
 Högsby,5.2
 Hörby,5.7
@@ -99,10 +99,10 @@ Karlstad,5.3
 Katrineholm,17.2
 Kil,8.3
 Kinda,13.0
-Kiruna,12.8
+Kiruna,13.2
 Klippan,9.6
 Knivsta,4.2
-Kramfors,25.4
+Kramfors,25.9
 Kristianstad,12.6
 Kristinehamn,6.6
 Krokom,2.0
@@ -113,7 +113,7 @@ Kungälv,8.7
 Kävlinge,10.6
 Köping,11.9
 Laholm,8.5
-Landskrona,12.7
+Landskrona,13.2
 Laxå,21.2
 Lekeberg,0.0
 Leksand,13.3
@@ -143,13 +143,13 @@ Mellerud,12.9
 Mjölby,13.3
 Mora,5.4
 Motala,12.4
-Mullsjö,4.1
+Mullsjö,5.4
 Munkedal,12.3
 Munkfors,34.9
 Mölndal,10.1
 Mönsterås,17.3
 Mörbylånga,5.8
-Nacka,15.7
+Nacka,15.8
 Nora,12.1
 Norberg,5.2
 Nordanstig,31.6
@@ -187,7 +187,7 @@ Sjöbo,4.1
 Skara,13.9
 Skellefteå,11.3
 Skinnskatteberg,6.9
-Skurup,12.5
+Skurup,13.1
 Skövde,16.5
 Smedjebacken,10.1
 Sollefteå,29.1
@@ -197,7 +197,7 @@ Sorsele,0.0
 Sotenäs,9.9
 Staffanstorp,8.1
 Stenungsund,3.3
-Stockholm,18.0
+Stockholm,18.1
 Storfors,7.5
 Storuman,20.6
 Strängnäs,7.3
@@ -205,7 +205,7 @@ Strömstad,5.3
 Strömsund,10.4
 Sundbyberg,18.6
 Sundsvall,13.8
-Sunne,9.0
+Sunne,9.8
 Surahammar,10.9
 Svalöv,9.1
 Svedala,6.2
@@ -225,7 +225,7 @@ Timrå,24.5
 Tingsryd,12.9
 Tjörn,7.4
 Tomelilla,3.7
-Torsby,5.2
+Torsby,6.1
 Torsås,22.4
 Tranemo,14.3
 Tranås,6.3
@@ -240,7 +240,7 @@ Ulricehamn,13.0
 Umeå,3.6
 Upplands Väsby,23.9
 Upplands-Bro,15.9
-Uppsala,12.0
+Uppsala,12.1
 Uppvidinge,11.6
 Vadstena,12.1
 Vaggeryd,11.7
@@ -271,7 +271,7 @@ Ystad,4.2
 Åre,7.5
 Årjäng,8.0
 Åsele,10.7
-Åstorp,11.2
+Åstorp,11.9
 Åtvidaberg,9.6
 Älmhult,21.8
 Älvdalen,4.3
@@ -282,7 +282,7 @@ Ystad,4.2
 Ödeshög,24.4
 Örebro,10.7
 Örkelljunga,13.4
-Örnsköldsvik,13.1
+Örnsköldsvik,13.2
 Östersund,9.8
 Österåker,13.1
 Östhammar,15.3
